@@ -1,0 +1,6 @@
+D:\Draw with C#\letter Q\letter Q\bin\Debug\letter Q.exe.config
+D:\Draw with C#\letter Q\letter Q\bin\Debug\letter Q.exe
+D:\Draw with C#\letter Q\letter Q\bin\Debug\letter Q.pdb
+D:\Draw with C#\letter Q\letter Q\obj\Debug\letter Q.csproj.CoreCompileInputs.cache
+D:\Draw with C#\letter Q\letter Q\obj\Debug\letter Q.exe
+D:\Draw with C#\letter Q\letter Q\obj\Debug\letter Q.pdb
